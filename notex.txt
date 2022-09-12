@@ -1,0 +1,4 @@
+tsc --init
+tsc w
+https://stackoverflow.com/questions/12799237/how-to-watch-and-compile-all-typescript-sources
+https://stackoverflow.com/questions/36916989/how-can-i-generate-a-tsconfig-json-file

@@ -1,7 +1,7 @@
 
 
 export class sessionCore{
-    constructor(){
-        //console.log();
+    constructor(name?){
+      console.log("");
     }
 }

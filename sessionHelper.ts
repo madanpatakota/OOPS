@@ -1,10 +1,12 @@
+import {
+    sessionCore
+}
+from './sessionCore.js';
 
-import  {  sessionCore  }  from './sessionCore.js';
+export class sessionHelper extends sessionCore {
 
-export class sessionHelper extends sessionCore{
-
-     constructor(){
-        super()
+    constructor(name, Age, Location) {
+        super(name)
     }
 
 }

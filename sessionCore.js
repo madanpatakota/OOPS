@@ -1,10 +1,9 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 exports.sessionCore = void 0;
-var sessionCore = /** @class */ (function () {
-    function sessionCore() {
-        //console.log();
+class sessionCore {
+    constructor(name) {
+        console.log("");
     }
-    return sessionCore;
-}());
+}
 exports.sessionCore = sessionCore;
